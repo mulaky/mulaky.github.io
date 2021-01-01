@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моё описание</title>
+  </head>
+  <body>
+    <main>
+      <h1>Bohdan Mulaki</h1>
+      <h2>Junior Front-End Developer</h2>
+      <section>
+        <h2>Education</h2>
+        <ul>
+          <li>Politech Odessa Univesity</li>
+          <li>Santa Monica College</li>
+          <li>Hexlet.ru-professional programming website</li>
+        </ul>
+      </section> 
+
+      <section>
+        <h2>Skills</h2>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaSkript</li>
+          <li>C++</li>
+      </ul>
+      </section>
+
+      <section>
+        <h2>Else</h2>
+        Junior FrontEnd Developer
+      </section>
+    </main>
+  </body>
+</html>
